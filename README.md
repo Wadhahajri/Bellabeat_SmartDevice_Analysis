@@ -39,15 +39,12 @@ The dataset includes information related to:
 - Heart rate
 - Activity intensity
 
-The version used in this analysis contains data from 33 users.
 
 ### Data Source
 
-The dataset used in this project is the **FitBit Fitness Tracker Data**, made available on Kaggle by **Möbius**.
+The dataset was made available on Kaggle by **Möbius** and was collected from Fitbit users who consented to share their personal tracker data. Some of the data was recorded at the minute level.
 
-The dataset was collected from Fitbit users who consented to share their personal tracker data. It contains detailed tracking information, including activity, heart rate, and sleep monitoring, with some data recorded at the minute level.
-
-For this project, the analysis focused primarily on the **daily activity and sleep data** relevant to understanding user activity patterns, sedentary behavior, and sleep duration.
+For this project, the analysis focused primarily on **daily activity and sleep data** to examine user activity patterns, sedentary behavior and sleep duration.
 
 [FitBit Fitness Tracker Data – Kaggle](https://www.kaggle.com/arashnic/fitbit)
 
