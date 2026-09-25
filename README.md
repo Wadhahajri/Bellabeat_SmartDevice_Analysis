@@ -183,7 +183,7 @@ Future analysis could incorporate:
 
 ---
 
-## 🛠️Tools & Skills
+## Tools & Skills
 
 ### Tools
 
