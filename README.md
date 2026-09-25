@@ -128,21 +128,39 @@ The dashboard includes:
 
 ---
 
-##  Business Recommendations
+## Business Recommendations
 
-Based on the findings, the following recommendations were developed:
+The analysis identified several behavioral patterns that can be translated into opportunities for Bellabeat's marketing strategy and customer engagement. Rather than treating each finding as an isolated result, the recommendations connect user behavior with potential business actions.
 
-### Personalized Activity Reminders
+### 1. Turn Activity Data into a Personalized Engagement Experience
 
-Use sedentary-time patterns to provide personalized activity reminders and encourage users to move throughout the day.
+The analysis found that approximately **83% of tracked activity-level time was sedentary**, indicating that users spend a large proportion of their recorded time at low activity levels.
 
-### Evening Activity Campaigns
+This presents an opportunity for Bellabeat to move beyond simply displaying activity data and use it to create a more personalized user experience. The app could use individual activity patterns to provide personalized goals, progress tracking, and relevant movement suggestions based on each user's behavior.
 
-Use the observed 7 PM activity peak to develop evening-focused engagement campaigns and activity challenges.
+From a business perspective, this could increase the value users receive from continuously tracking their activity. Instead of viewing the device as a tool for recording data, users could interact with it as a personalized wellness companion.
 
-### Personalized Sleep Insights
+This supports Bellabeat's marketing objective of strengthening customer engagement by turning collected behavioral data into personalized experiences.
 
-Use sleep-duration patterns to provide personalized wellness insights and encourage healthier sleep habits.
+### 2. Use Behavioral Timing to Improve Marketing Relevance
+
+The analysis identified **7 PM as the peak activity hour**, suggesting that evening represents an important period of activity among the users analyzed.
+
+Rather than using this finding only to create an evening reminder, Bellabeat could use behavioral timing as a principle for planning selected engagement activities. Evening-focused challenges, wellness content, or campaign messages could be tested around periods when users are more likely to be active.
+
+Bellabeat could also compare engagement with different campaign timings to identify when users respond most actively. This would allow future marketing decisions to be informed by observed customer behavior rather than relying entirely on fixed communication schedules.
+
+This supports Bellabeat's marketing objective of delivering more relevant and behavior-driven customer engagement.
+
+### 3. Expand Sleep Tracking into a Broader Wellness Strategy
+
+The analysis found that **6–8 hours was the most common sleep duration range** among the users analyzed. While this result describes a common pattern rather than an ideal target, it shows that sleep is an important part of the behavioral data available through smart devices.
+
+Bellabeat could use sleep data to complement its activity-focused features by providing users with a broader view of their daily wellness. For example, the app could help users track changes in their sleep patterns, view personal trends over time, and connect sleep information with other wellness indicators.
+
+From a business perspective, expanding the role of sleep data could increase the range of insights provided through Bellabeat's ecosystem and create additional opportunities for users to interact with the app beyond activity tracking.
+
+This supports Bellabeat's objective of strengthening its position as a personalized wellness platform and increasing the value of continued product and app engagement.
 
 ---
 
