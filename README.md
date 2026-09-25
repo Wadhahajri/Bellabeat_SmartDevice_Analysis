@@ -48,17 +48,6 @@ For this project, the analysis focused primarily on **daily activity and sleep d
 
 [FitBit Fitness Tracker Data – Kaggle](https://www.kaggle.com/arashnic/fitbit)
 
-### Data Limitations
-
-The dataset has several limitations:
-
-- Small sample size
-- Older data
-- Limited demographic information
-- Fitbit users may not represent Bellabeat customers
-
-Therefore, the findings should be interpreted as directional insights rather than representative results for all smart device users.
-
 ---
 
 ##  Data Preparation
