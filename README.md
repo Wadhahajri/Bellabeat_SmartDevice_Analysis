@@ -114,7 +114,7 @@ The interactive Power BI dashboard summarizes the main findings from the analysi
 
 ### Dashboard Preview
 
-![Bellabeat Power BI Dashboard](Bellabeat%20Dashboard.png)
+![Bellabeat User Behavior Analysis](BELLABEAT_dashboard.jpg)
 
 The dashboard includes:
 
